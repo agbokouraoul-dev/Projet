@@ -88,8 +88,8 @@ Les tests incluent :
 
 ## Auteur
 
-Nom : koumaka kondi Josias  
-Statut : Étudiant en premiere annee SRI 
+Nom : AGBOKOU Komi Raoul 
+Statut : Étudiant SRI 1ere année
 
 ---
 
